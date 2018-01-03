@@ -1,0 +1,96 @@
+﻿using NSC.GridPlan.PowerEquipment.UI.Class;
+using NSC.GridPlan.PowerEquipment.UI.Tables;
+using NSC.PMSHandler.DataContractObjects;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace NSC.GridPlan.PowerEquipment.UI
+{
+    public partial class InfoShow : Form
+    {
+        public static InfoShow theSingleton = null;
+        private string infoName = null;//当前集合名称
+        private object infoValue = null;//当前集合值
+        string path = Application.StartupPath + @"\DataStructModel.xml";//模型路径
+        DataTable dtGrid = null;
+        /// <summary>
+        /// 单例
+        /// </summary>
+        /// <returns></returns>
+        public static InfoShow Instance(string name,object value)
+        {
+            if (theSingleton == null || theSingleton.IsDisposed)
+            {
+                theSingleton = new InfoShow(name,value);
+                theSingleton.Show();
+            }
+            return theSingleton;
+        }
+        public InfoShow(string name, object value)
+        {
+            InitializeComponent();
+            infoName = name;
+            infoValue = value;
+            //窗体名称
+            this.Text = infoName;
+            this.DetialAtrribute.Text = infoName;
+        }
+
+        private void InfoShow_Load(object sender, EventArgs e)
+        {
+            dtGrid = new DataTable();
+            SetNavigate(dtGrid);           
+            switch (infoName)
+            {
+                case"主变信息":
+                    InitGSUControl();
+                    break;
+                case "母线信息":
+                    break;
+            }
+        }
+        /// <summary>
+        /// 初始化主变属性字段
+        /// </summary>
+        private void InitGSUControl()
+        {
+            List<SubGSUObjects> mSubGUS = infoValue as List<SubGSUObjects>;
+            if (mSubGUS != null || mSubGUS.Count != 0)
+            {
+                dtGrid.Rows.Add("", "主变列表");
+                //填充数量列表
+                for (int i = 0; i < mSubGUS.Count; i++)
+                {
+                    DataRow drGrid = dtGrid.NewRow();
+                    drGrid[0] = i;
+                    drGrid[1] = "主变" + mSubGUS[i].GSU.GSUCode;
+                    dtGrid.Rows.Add(drGrid);
+                }
+                listNavigate.DataSource = dtGrid;              
+                List<StructTable> mStructTableCollect = AnalysisDataStruct.AnalysisData(path, "SubStationTrans");
+                FillVGrid vGrid = new FillVGrid();
+                vGrid.InitalGridData(mStructTableCollect, vGridDdtial);
+            }
+        }
+        private void SetNavigate(DataTable dtGrid)
+        {
+            dtGrid.Columns.AddRange(new DataColumn[]
+                {
+                    new DataColumn(" "),
+                    new DataColumn("成员列表",typeof(string)),
+                });
+           
+        }
+
+        private void listNavigate_FocusedNodeChanged(object sender, DevExpress.XtraTreeList.FocusedNodeChangedEventArgs e)
+        {
+
+        }
+    }
+}
