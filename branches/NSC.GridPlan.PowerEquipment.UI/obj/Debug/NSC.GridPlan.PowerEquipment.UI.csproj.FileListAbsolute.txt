@@ -1,0 +1,116 @@
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.LineAttribute.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.StationAttribute.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.Properties.Resources.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.SubStationAttribute.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csproj.GenerateResource.Cache
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe.licenses
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UserControl.UCTransformer.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.EquipmentInfoShow.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csprojResolveAssemblyReference.cache
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.InfoShow.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.PMSHandler.dll
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.PMSHandler.pdb
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.AttributeShow.resources
+C:\Users\CHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.FieldsManagement.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.PMSHandler.dll
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.PMSHandler.pdb
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csprojResolveAssemblyReference.cache
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.AttributeShow.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.FieldsManagement.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.InfoShow.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.LineAttribute.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.EquipmentInfoShow.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.StationAttribute.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.Properties.Resources.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.SubStationAttribute.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UserControl.UCTransformer.resources
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csproj.GenerateResource.Cache
+C:\Users\CZHAO\Desktop\WindowsFormsApplication1\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe.licenses
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.PMSHandler.dll
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.PMSHandler.pdb
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csprojResolveAssemblyReference.cache
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.AttributeShow.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.FieldsManagement.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.InfoShow.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.LineAttribute.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.EquipmentInfoShow.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.StationAttribute.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.Properties.Resources.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.SubStationAttribute.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UserControl.UCTransformer.resources
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csproj.GenerateResource.Cache
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe.licenses
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+G:\LSD-Project\7-上海院项目\编码\SEPD\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.AttributeShow.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.FieldsManagement.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.InfoShow.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.LineAttribute.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.EquipmentInfoShow.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.StationAttribute.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.Properties.Resources.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.SubStationAttribute.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UserControl.UCTransformer.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csproj.GenerateResource.Cache
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe.licenses
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+G:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+G:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.resx
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.cs
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.Designer.cs
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UI.Form1.resources
+H:\02GIS\洛斯达电力\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csprojResolveAssemblyReference.cache
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.resx
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.cs
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.Designer.cs
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csprojResolveAssemblyReference.cache
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.AttributeShow.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.FieldsManagement.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UI.Form1.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.InfoShow.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.LineAttribute.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.EquipmentInfoShow.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.StationAttribute.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.Properties.Resources.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.SubStationAttribute.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UserControl.UCTransformer.resources
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csproj.GenerateResource.Cache
+H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe.licenses
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csprojResolveAssemblyReference.cache
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.AttributeShow.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.FieldsManagement.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UI.Form1.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.InfoShow.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.LineAttribute.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.EquipmentInfoShow.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.StationAttribute.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.Properties.Resources.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.SubStationAttribute.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.UserControl.UCTransformer.resources
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.csproj.GenerateResource.Cache
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\obj\Debug\NSC.GridPlan.PowerEquipment.UI.exe.licenses
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.resx
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.cs
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\bin\Debug\UI\EquipmentInfoShow.Designer.cs
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.exe
+H:\02GIS\洛斯达电力\UI devwc\branches\NSC.GridPlan.PowerEquipment.UI\bin\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
