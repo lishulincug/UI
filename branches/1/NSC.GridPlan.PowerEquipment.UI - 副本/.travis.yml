@@ -1,0 +1,10 @@
+language: csharp #当前语言是C#
+before_install:
+ - chmod +x build/build.mono.sh #为build.mono.sh赋执行权限
+install:
+  - nuget restore NSC.GridPlan.PowerEquipment.UI.sln #通过nuget restore恢复引用的DLL
+  - nuget install xunit.runners -Version 1.9.2 -OutputDirectory testrunner #安装 xunit.net测试框架，为了能正常运行单元测试，建议将MS的测试框架改成 xunit.net
+script:
+  - ./build/build.mono.sh #执行构建脚本，脚本中通过mcs命令构建项目
+  - xbuild /p:Configuration=Release JinianNet.JNTemplate.sln #此处通过xbuild以Release模式构建JinianNet.JNTemplate.sln解决方案
+  - mono ./testrunner/xunit.runners.1.9.2/tools/xunit.console.clr4.

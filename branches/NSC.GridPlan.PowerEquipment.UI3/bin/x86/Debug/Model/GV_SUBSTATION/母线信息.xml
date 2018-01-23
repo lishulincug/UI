@@ -1,0 +1,354 @@
+﻿<XtraSerializer version="1.0" application="VGridControl">
+  <property name="#LayoutVersion" />
+  <property name="LayoutStyle">MultiRecordView</property>
+  <property name="CustomizationFormBounds">@1,X=0@1,Y=0@1,Width=0@1,Height=0</property>
+  <property name="RecordsInterval">0</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="AutoScaleBands">true</property>
+  </property>
+  <property name="TreeButtonStyle">Default</property>
+  <property name="ScrollsStyle" isnull="true" iskey="true">
+    <property name="BackColor">Control</property>
+    <property name="ForeColor">WindowFrame</property>
+    <property name="BorderStyle">Flat</property>
+  </property>
+  <property name="ScrollVisibility">Auto</property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="BorderStyle">Default</property>
+  <property name="Rows" iskey="true" value="2">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Properties" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Value" isnull="true" />
+        <property name="UnboundExpression" />
+        <property name="UnboundType">Bound</property>
+        <property name="ShowUnboundExpressionMenu">false</property>
+        <property name="CustomizationCaption" />
+        <property name="ToolTip" />
+        <property name="Format" isnull="true" iskey="true">
+          <property name="FormatString" />
+          <property name="FormatType">None</property>
+        </property>
+        <property name="RowEditName" />
+        <property name="FieldName" />
+        <property name="Caption">必填</property>
+      </property>
+      <property name="TabStop">false</property>
+      <property name="XtraRowTypeID">0</property>
+      <property name="MaxCaptionLineCount">1</property>
+      <property name="Visible">true</property>
+      <property name="Height">-1</property>
+      <property name="Name">category必填</property>
+      <property name="Expanded">true</property>
+      <property name="InternalFixed">None</property>
+      <property name="ChildRows" iskey="true" value="5">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">ID</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">编号</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">ID</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">SUBSTATIONID</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">变电站代码</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">SUBSTATIONID</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">BUSNAME</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">母线名称</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">BUSNAME</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">ZBH</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">关联的主变号</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">ZBH</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+        <property name="Item5" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">BASEVOLTAGE</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">基准电压</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">BASEVOLTAGE</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+      </property>
+      <property name="Tag" isnull="true" />
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Properties" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="ImageIndex">-1</property>
+        <property name="Value" isnull="true" />
+        <property name="UnboundExpression" />
+        <property name="UnboundType">Bound</property>
+        <property name="ShowUnboundExpressionMenu">false</property>
+        <property name="CustomizationCaption" />
+        <property name="ToolTip" />
+        <property name="Format" isnull="true" iskey="true">
+          <property name="FormatString" />
+          <property name="FormatType">None</property>
+        </property>
+        <property name="RowEditName" />
+        <property name="FieldName" />
+        <property name="Caption">选填</property>
+      </property>
+      <property name="TabStop">false</property>
+      <property name="XtraRowTypeID">0</property>
+      <property name="MaxCaptionLineCount">1</property>
+      <property name="Visible">true</property>
+      <property name="Height">-1</property>
+      <property name="Name">category选填</property>
+      <property name="Expanded">true</property>
+      <property name="InternalFixed">None</property>
+      <property name="ChildRows" iskey="true" value="4">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">DXDLRL</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">单相短路容量</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">DXDLRL</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">SXDLRL</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">双相短路容量</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">SXDLRL</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">DYSX</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">电压上限</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">DYSX</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="Enabled">true</property>
+          <property name="MaxCaptionLineCount">2</property>
+          <property name="Height">19</property>
+          <property name="Expanded">true</property>
+          <property name="InternalFixed">None</property>
+          <property name="Tag" isnull="true" />
+          <property name="Name">DYXX</property>
+          <property name="ChildRows" iskey="true" value="0" />
+          <property name="Visible">true</property>
+          <property name="TabStop">true</property>
+          <property name="Properties" isnull="true" iskey="true">
+            <property name="Format" isnull="true" iskey="true">
+              <property name="FormatString" />
+              <property name="FormatType">None</property>
+            </property>
+            <property name="Caption">电压下限</property>
+            <property name="CustomizationCaption" />
+            <property name="ToolTip" />
+            <property name="FieldName">DYXX</property>
+            <property name="ShowUnboundExpressionMenu">false</property>
+            <property name="UnboundType">Object</property>
+            <property name="UnboundExpression" />
+            <property name="ReadOnly">false</property>
+            <property name="ImageIndex">-1</property>
+            <property name="Value" isnull="true" />
+            <property name="RowEditName" />
+          </property>
+          <property name="XtraRowTypeID">1</property>
+        </property>
+      </property>
+      <property name="Tag" isnull="true" />
+    </property>
+  </property>
+  <property name="RecordWidth">100</property>
+  <property name="RowHeaderWidthChangeStep">2</property>
+  <property name="BandsInterval">2</property>
+  <property name="RowHeaderWidth">113</property>
+</XtraSerializer>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<module>
+ <SubStationTrans>
+  <Group caption="基本信息">
+    <row caption="主变号" Type="2" isHasChild="false">30</row>
+	<row caption="变压器型号" Type="0" isHasChild="false">30</row>
+	<row caption="额定容量" Type="2" isHasChild="true">
+	  <rowChild caption="高" Type="2">30</rowChild> 
+	  <rowChild caption="中" Type="2">30</rowChild>
+	  <rowChild caption="低" Type="2">30</rowChild>
+	</row>
+	<row caption="主抽头及调压范围" Type="2" isHasChild="true">
+	  <rowChild caption="高" Type="2">30</rowChild> 
+	  <rowChild caption="中" Type="2">30</rowChild>
+	  <rowChild caption="低" Type="2">30</rowChild>
+	</row>
+	<row caption="抽头位置" Type="2" isHasChild="true">
+	  <rowChild caption="高" Type="2">30</rowChild> 
+	  <rowChild caption="中" Type="2">30</rowChild>
+	  <rowChild caption="低" Type="2">30</rowChild>
+	</row>
+	<row caption="短路阻抗(%)" Type="2" isHasChild="true">
+	  <rowChild caption="高" Type="2">30</rowChild> 
+	  <rowChild caption="中" Type="2">30</rowChild>
+	  <rowChild caption="低" Type="2">30</rowChild>
+	</row>
+	<row caption="短路耗损(kw)" Type="2" isHasChild="true">
+	  <rowChild caption="高" Type="2">30</rowChild> 
+	  <rowChild caption="中" Type="2">30</rowChild>
+	  <rowChild caption="低" Type="2">30</rowChild>
+	</row>
+	<row caption="空载损耗(%)" Type="2" isHasChild="false">30</row>
+	<row caption="空载电流百分比(%)" Type="2" isHasChild="false">30</row>
+	<row caption="中性点接地电抗(%)" Type="2" isHasChild="true">
+	  <rowChild caption="高压侧" Type="2">30</rowChild> 
+	  <rowChild caption="中压侧" Type="2">30</rowChild>
+	  <rowChild caption="低压侧" Type="2">30</rowChild>
+	  </row>
+	  <row caption="中性点接地电阻" Type="2" isHasChild="true">
+	  <rowChild caption="高压侧" Type="2">30</rowChild> 
+	  <rowChild caption="中压侧" Type="2">30</rowChild>
+	  <rowChild caption="低压侧" Type="2">30</rowChild>
+	  </row>
+	<row caption="调压方式" Type="0" isHasChild="false">30</row>
+	<row caption="连接方式" Type="0" isHasChild="false">30</row>
+	<row caption="冷却方式" Type="0" isHasChild="false">30</row>
+	<row caption="绝缘材料" Type="0" isHasChild="false">30</row>
+	<row caption="制造厂家" Type="2" isHasChild="false">30</row>
+	<row caption="建成日期" Type="2" isHasChild="false">30</row>
+	<row caption="分区名" Type="0" isHasChild="false">30</row>
+	<row caption="容载率" Type="2" isHasChild="false">30</row>
+	<row caption="负载率" Type="2" isHasChild="false">30</row>
+	<row caption="自耦变压器" Type="2" isHasChild="false">30</row>
+	</Group>
+	</SubStationTrans>
+	<SubStationBus>
+  <Group caption="母线信息">
+    <row caption="关联主变号" Type="2" isHasChild="false">30</row>
+	 <row caption="基准电压(kV)" Type="2" isHasChild="false">30</row>
+	<row caption="短路容量(MWA)" Type="2" isHasChild="true">
+	  <rowChild caption="单相" Type="2">30</rowChild> 
+	  <rowChild caption="双相" Type="2">30</rowChild>
+	  </row>
+	<row caption="电压(kV)" Type="2" isHasChild="true">
+	  <rowChild caption="上限" Type="2">30</rowChild> 
+	  <rowChild caption="下限" Type="2">30</rowChild>
+	  <rowChild caption="低" Type="2">30</rowChild>
+	  </row>
+	<row caption="运行方式" Type="0" isHasChild="false">30</row>
+	<row caption="恒定有功负荷(MW)" Type="0" isHasChild="false">30</row>
+	<row caption="恒定无功负荷(MW)" Type="0" isHasChild="false">30</row>
+	<row caption="负荷模型类型" Type="0" isHasChild="false">30</row>
+	<row caption="恒定阻抗" Type="2" isHasChild="false">30</row>
+	<row caption="电容电抗器" Type="2" isHasChild="true">
+	  <rowChild caption="名称" Type="2">30</rowChild> 
+	  <rowChild caption="投入容量(MWA)" Type="2">30</rowChild>
+	  <rowChild caption="额定电压(kV)" Type="2">30</rowChild>
+	  <rowChild caption="出力方式" Type="0">30</rowChild> 
+	  <rowChild caption="设备类型" Type="0">低容</rowChild> 
+	  <rowChild caption="单组容量(MWA)" Type="2">30</rowChild> 
+	  <rowChild caption="已建组数" Type="2">30</rowChild> 
+	  <rowChild caption="总容量(MWA)" Type="2">30</rowChild>
+	  <rowChild caption="型号" Type="2">30</rowChild> 
+	  <rowChild caption="备注" Type="2">30</rowChild>
+	  </row>	 
+  </Group>  
+ </SubStationBus>
+</module>

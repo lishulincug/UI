@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<module>
+ <SubStation>
+  <Group caption="基本信息">
+    <row caption="名称" Type="2" isHasChild="false">30</row>
+	<row caption="变电站类型" Type="0" isHasChild="false">30</row>
+	<row caption="分区名" Type="0" isHasChild="false">30</row>
+	<row caption="电压等级(kV)" Type="0" isHasChild="false">30</row>
+	<row caption="供电公司" Type="0" isHasChild="false">30</row>
+	<row caption="所属区域" Type="0" isHasChild="false">30</row>
+	<row caption="调度关系" Type="2" isHasChild="false">30</row>
+	<row caption="运维单位" Type="2" isHasChild="false">30</row>
+	<row caption="建设进度" Type="0" isHasChild="false">30</row>
+	<row caption="核准进度" Type="0" isHasChild="false">30</row>
+	<row caption="投产年" Type="2" isHasChild="false">30</row>
+	<row caption="简称" Type="2" isHasChild="false">30</row>
+	<row caption="供电区域" Type="2" isHasChild="false">30</row>
+	<row caption="行政区域" Type="2" isHasChild="false">30</row>
+	</Group>
+  <Group caption="主变信息">
+	<row caption="主变组数" Type="2" isHasChild="true">
+	  <rowChild caption="终期" Type="2">30</rowChild> 
+	  <rowChild caption="已建" Type="2">30</rowChild>
+	  </row>
+	<row caption="主变容量" Type="2" isHasChild="true">
+	  <rowChild caption="高" Type="2">30</rowChild> 
+	  <rowChild caption="中" Type="2">30</rowChild>
+	  <rowChild caption="低" Type="2">30</rowChild>
+	  </row>
+	<row caption="出线(规划)" Type="2" isHasChild="true">
+	  <rowChild caption="高压侧" Type="2">30</rowChild> 
+	  <rowChild caption="中压侧" Type="2">30</rowChild>
+	  <rowChild caption="低压侧" Type="2">30</rowChild>
+	  </row>
+	 <row caption="出线(已建)" Type="2" isHasChild="true">
+	  <rowChild caption="高压侧" Type="2">30</rowChild> 
+	  <rowChild caption="中压侧" Type="2">30</rowChild>
+	  <rowChild caption="低压侧" Type="2">30</rowChild>
+	  </row>
+	 <row caption="出线方向" Type="2" isHasChild="true">
+	  <rowChild caption="高压侧" Type="2">30</rowChild> 
+	  <rowChild caption="中压侧" Type="2">30</rowChild>
+	  <rowChild caption="低压侧" Type="2">30</rowChild>
+	  </row>
+	  <row caption="开关遮断能力" Type="2" isHasChild="true">
+	  <rowChild caption="高压侧" Type="2">30</rowChild> 
+	  <rowChild caption="中压侧" Type="2">30</rowChild>
+	  <rowChild caption="低压侧" Type="2">30</rowChild>
+	  </row>
+	<row caption="主变信息" Type="1" isHasChild="false">30</row>
+  </Group>
+  <Group caption="母线信息">
+    <row caption="母线数量" Type="2" isHasChild="false">30</row>
+	<row caption="母线信息" Type="1" isHasChild="false">30</row>
+	</Group>  
+	<Group caption="串补信息">
+    <row caption="串补站" Type="2" isHasChild="false">30</row>
+	<row caption="安装线路" Type="0" isHasChild="false">30</row>
+	<row caption="安装地点" Type="0" isHasChild="false">30</row>
+	<row caption="串补性质" Type="0" isHasChild="false">30</row>
+	<row caption="串补度(%)" Type="2" isHasChild="true">
+	  <rowChild caption="固定" Type="2">30</rowChild> 
+	  <rowChild caption="可控" Type="2">30</rowChild>
+    </row>
+	<row caption="串补容(MVA)量" Type="0" isHasChild="true">
+	  <rowChild caption="固定" Type="2">30</rowChild> 
+	  <rowChild caption="可控" Type="2">30</rowChild>
+	</row>
+	<row caption="额定电流(kA)" Type="0" isHasChild="false">30</row>
+	<row caption="线路潮流有功(MW)" Type="0" isHasChild="true">
+	  <rowChild caption="最大值" Type="2">30</rowChild> 
+	  <rowChild caption="最小值" Type="2">30</rowChild>
+	</row>
+	<row caption="线路电抗" Type="0" isHasChild="true">
+	  <rowChild caption="最大值" Type="2">30</rowChild> 
+	  <rowChild caption="最小值" Type="2">30</rowChild>
+	</row>
+	</Group> 
+ </SubStation>
+</module>

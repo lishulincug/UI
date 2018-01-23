@@ -25,3 +25,4 @@ E:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\x86\D
 E:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\x86\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
 H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\x86\Debug\NSC.GridPlan.PowerEquipment.UI.exe
 H:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\x86\Debug\NSC.GridPlan.PowerEquipment.UI.pdb
+E:\02GIS\洛斯达电力\UI devwc\trunk\NSC.GridPlan.PowerEquipment.UI\obj\x86\Debug\NSC.GridPlan.PowerEquipment.UI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SequenceDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" dslVersion="1.0.0.0" Id="b4a9d0d0-13fa-46bc-8854-186c07c0d3ef" name="SubStationAttribute_InitializeComponent" mode="DotNet" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/SequenceDesigner">
+  <packagedElements>
+    <packageHasNamedElement>
+      <interaction Id="ba13d7a4-0be4-40a9-ba69-a066bc67a7fb" name="SubStationAttribute_InitializeComponent" collapseFragmentsFlag="false" isActiveClass="false" isAbstract="false" isLeaf="false" isReentrant="false">
+        <fragments>
+          <behaviorExecutionSpecification Id="cf8b95a9-8a36-4a95-9ef2-ef3129509551" name="BehaviorExecutionSpecification">
+            <coveredLifelines>
+              <lifelineMoniker Id="f3728c3c-9d93-4d42-82dc-e06ab67d076a" LastKnownName="this : SubStationAttribute" />
+            </coveredLifelines>
+            <finish>
+              <executionOccurrenceSpecificationMoniker Id="18f03f93-3e87-4b87-99cd-21e6f5db3dab" LastKnownName="ExecutionOccurrenceSpecification" />
+            </finish>
+            <start>
+              <executionOccurrenceSpecificationMoniker Id="0901a6ba-f775-40b2-9288-0ae49e540bfb" LastKnownName="ExecutionOccurrenceSpecification" />
+            </start>
+            <nestedOccurrences>
+              <messageOccurrenceSpecificationMoniker Id="ac5aa481-5a6f-44ea-8d42-218e168dc248" LastKnownName="MessageOccurrenceSpecification" />
+            </nestedOccurrences>
+          </behaviorExecutionSpecification>
+          <executionOccurrenceSpecification Id="0901a6ba-f775-40b2-9288-0ae49e540bfb" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="58057793-ff58-419e-88bd-bcebf28e6f4d" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="f3728c3c-9d93-4d42-82dc-e06ab67d076a" LastKnownName="this : SubStationAttribute" />
+            </covered>
+          </executionOccurrenceSpecification>
+          <lostFoundTarget Id="778fbd77-4344-49c2-ab7e-a24b387bc761" name="LostFoundTarget" />
+          <messageOccurrenceSpecification Id="ac5aa481-5a6f-44ea-8d42-218e168dc248" name="MessageOccurrenceSpecification">
+            <covered>
+              <lifelineMoniker Id="f3728c3c-9d93-4d42-82dc-e06ab67d076a" LastKnownName="this : SubStationAttribute" />
+            </covered>
+          </messageOccurrenceSpecification>
+          <executionOccurrenceSpecification Id="18f03f93-3e87-4b87-99cd-21e6f5db3dab" name="ExecutionOccurrenceSpecification">
+            <event>
+              <executionOccurrenceSpecificationReferencesEvent>
+                <executionEventMoniker Id="c1fe6864-56c0-480a-ab4c-9c1049840842" LastKnownName="ExecutionEvent" />
+              </executionOccurrenceSpecificationReferencesEvent>
+            </event>
+            <covered>
+              <lifelineMoniker Id="f3728c3c-9d93-4d42-82dc-e06ab67d076a" LastKnownName="this : SubStationAttribute" />
+            </covered>
+          </executionOccurrenceSpecification>
+        </fragments>
+        <lifelines>
+          <lifeline Id="f3728c3c-9d93-4d42-82dc-e06ab67d076a" name="this : SubStationAttribute" isActor="false" lifelineDisplayName="this : SubStationAttribute" referencedInstance="(Assembly=&quot;$(3a5c9366-3350-478b-9f94-f8eb78001cab.OutputPathUri)&quot; Namespace=NSC.GridPlan.PowerEquipment.UI Type=SubStationAttribute ObjectInstance=&quot;Object instance 1&quot;)" referencedType="NSC‎.GridPlan‎.PowerEquipment‎.UI‎.SubStationAttribute">
+            <referencesInternal>
+              <reference Id="13813c3a-c3d3-4e65-af29-6c1fda4d934c" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=NSC.GridPlan.PowerEquipment.UI)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(3a5c9366-3350-478b-9f94-f8eb78001cab.OutputPathUri)&amp;quot; Namespace=NSC.GridPlan.PowerEquipment.UI Type=SubStationAttribute)&quot;)" tag="DGQL" />
+              <reference Id="34ad62f7-12cc-4356-96be-ed26d7fcd9d4" handle="(Assembly=&quot;$(3a5c9366-3350-478b-9f94-f8eb78001cab.OutputPathUri)&quot; Namespace=NSC.GridPlan.PowerEquipment.UI Type=SubStationAttribute)" tag="DGML" />
+            </referencesInternal>
+            <topLevelOccurrences>
+              <executionOccurrenceSpecificationMoniker Id="0901a6ba-f775-40b2-9288-0ae49e540bfb" LastKnownName="ExecutionOccurrenceSpecification" />
+              <executionOccurrenceSpecificationMoniker Id="18f03f93-3e87-4b87-99cd-21e6f5db3dab" LastKnownName="ExecutionOccurrenceSpecification" />
+            </topLevelOccurrences>
+          </lifeline>
+        </lifelines>
+        <messages>
+          <message Id="82ea05a3-1ca2-4f6a-95d8-f0bdb3e1446c" name="InitializeComponent" messageKind="Found" messageSort="AsynchCall" createSelfMessage="false">
+            <referencesInternal>
+              <reference Id="242ca39d-0245-4cfa-b30b-e0a769898e79" handle="+ Id.Equals(&quot;Microsoft.Solution.ClassView&quot;) /&#xD;&#xA;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Namespace=NSC.GridPlan.PowerEquipment.UI)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(3a5c9366-3350-478b-9f94-f8eb78001cab.OutputPathUri)&amp;quot; Namespace=NSC.GridPlan.PowerEquipment.UI Type=SubStationAttribute)&quot;)/&#xD;&#xA;&quot;Microsoft.Contains&quot;/&#xD;&#xA;+ Id.EqualsIgnoreCase(&quot;(Assembly=&amp;quot;$(3a5c9366-3350-478b-9f94-f8eb78001cab.OutputPathUri)&amp;quot; Namespace=NSC.GridPlan.PowerEquipment.UI Type=SubStationAttribute Member=InitializeComponent)&quot;)" tag="DGQL" />
+              <reference Id="07410360-a825-4045-8b2f-3fec7e72325d" handle="(Assembly=&quot;$(3a5c9366-3350-478b-9f94-f8eb78001cab.OutputPathUri)&quot; Namespace=NSC.GridPlan.PowerEquipment.UI Type=SubStationAttribute Member=InitializeComponent)" tag="DGML" />
+            </referencesInternal>
+            <sendEvent>
+              <lostFoundTargetMoniker Id="778fbd77-4344-49c2-ab7e-a24b387bc761" LastKnownName="LostFoundTarget" />
+            </sendEvent>
+            <receiveEvent>
+              <messageOccurrenceSpecificationMoniker Id="ac5aa481-5a6f-44ea-8d42-218e168dc248" LastKnownName="MessageOccurrenceSpecification" />
+            </receiveEvent>
+          </message>
+        </messages>
+      </interaction>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="58057793-ff58-419e-88bd-bcebf28e6f4d" name="ExecutionEvent" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <executionEvent Id="c1fe6864-56c0-480a-ab4c-9c1049840842" name="ExecutionEvent" />
+    </packageHasNamedElement>
+  </packagedElements>
+</SequenceDesignerModel>

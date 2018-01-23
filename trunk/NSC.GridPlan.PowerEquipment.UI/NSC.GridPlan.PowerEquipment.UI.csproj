@@ -123,9 +123,7 @@
     <Compile Include="Class\FillVGrid.cs" />
     <Compile Include="Class\MultiSelectMode.cs" />
     <Compile Include="Class\RecodOrder.cs" />
-    <Compile Include="DemoControls.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
+    <Compile Include="DemoControls.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -207,15 +205,11 @@
     <Compile Include="UI\SubStationAttribute.Designer.cs">
       <DependentUpon>SubStationAttribute.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControl\UCAttributeModel.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
+    <Compile Include="UserControl\UCAttributeModel.cs" />
     <Compile Include="UserControl\UCAttributeModel.Designer.cs">
       <DependentUpon>UCAttributeModel.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControl\UCTransformer .cs">
-      <SubType>UserControl</SubType>
-    </Compile>
+    <Compile Include="UserControl\UCTransformer .cs" />
     <Compile Include="UserControl\UCTransformer .Designer.cs">
       <DependentUpon>UCTransformer .cs</DependentUpon>
     </Compile>
